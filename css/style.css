@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0 10%;
+}
+
+.header {
+    max-height: 100px;
+}
+
+.header-navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2% 0;
+}
+
+.header-list {
+    display: flex;
+    gap: 40px;
+}
+
+.header-list li {
+    font-size: 16px;
+    list-style: none;
+}
+
+/* first page */
+.first-page {
+    margin: 7% 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.who-i-am {
+    display: flex;
+    flex-direction: column;
+    gap: 38px;
+    width: 750px;
+}
+
+.main-text {
+    color: black;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 82.5px;
+    letter-spacing: 2px;
+}
+
+.main-color-title {
+    color: rgba(255, 138, 86, 1);
+}
+
+.info-about-designer {
+    width: 550px;
+    font-size: 22px;
+    line-height: 33px;
+    color: rgba(102, 102, 102, 1);
+}
+
+.designer {
+    position: relative;
+    bottom: 40px;
+}
+
+.first-page button {
+    border: none;
+    font-size: 18px;
+    width: 150px;
+    height: 60px;
+}
+
+.call-button {
+    background-color: black;
+    color: white;
+}
+
+.download-button {
+    background-color: white;
+    color: black;
+}
+
+/* second page */
+.us-partners {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.helpers {
+    font-size: 18px;
+}
+
+.partners-list {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.partners-list img {
+    width: 141px;
+}
