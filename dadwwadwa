@@ -1,0 +1,192 @@
+        <!-- third page -->
+        <section class="third-page">
+            <div class="projects-info">
+                <div class="projects-title">
+                    <p>projects</p>
+                    <h2>I bring results.</h2>
+                    <h2>My clients are proof.</h2>
+                </div>
+                <button class="button_view-all">View all projects</button>
+            </div>
+            <article class="projects">
+                <div>
+                    <img src="css/img/branding_image.png" alt="branding image" class="decorate-image">
+                    <div class="projects-card-info">
+                        <p class="color-title">Branding</p>
+                        <h3>Soulful Rebrand</h3>
+                        <div class="view-project">
+                            <p>View Project</p>
+                            <img src="css/img/arrow.png" alt="arrow" class="arrow">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <img src="css/img/product_design_image.png" alt="product design image" class="decorate-image">
+                    <div class="projects-card-info">
+                        <p class="color-title">Product Design</p>
+                        <h3>Datadash Product design</h3>
+                        <div class="view-project">
+                            <p>View Project</p>
+                            <img src="css/img/arrow.png" alt="arrow" class="arrow">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <img src="css/img/web_design_image.png" alt="web design image" class="decorate-image">
+                    <div class="projects-card-info">
+                        <p class="color-title">Web Design</p>
+                        <h3>Maize Website Design</h3>
+                        <div class="view-project">
+                            <p>View Project</p>
+                            <img src="css/img/arrow.png" alt="arrow" class="arrow">
+                        </div>
+                    </div>
+                </div>
+            </article>
+        </section>
+        <!-- fourth page -->
+        <section class="fourth-page">
+            <div class="blogs-title">
+                <p class="page-about">Blogs</p>
+                <h2>Latest Blogs</h2>
+                <div class="view-project">
+                    <p>View all</p>
+                    <img src="css/img/arrow-white.jpg" alt="arrow white" class="arrow-white">
+                </div>
+                
+            </div>
+            <article>
+                <div class="blogs-element">
+                    <p class="blogs-date">April 16, 2021 .6 mins</p>
+                    <h3>Design tips for designers, that cover everything you need</h3>
+                    <div class="view-project">
+                        <p class="blogs-read-article">Read the article</p>
+                        <img src="css/img/arrow-white.jpg" alt="arrow white" class="arrow-white">
+                    </div>
+                    <img src="css/img/line.png" alt="line" class="line">
+                </div>
+                <div class="blogs-element">
+                    <p class="blogs-date">April 16, 2021 .5 mins</p>
+                    <h3>How to build rapport with your web design clients</h3>
+                    <div class="view-project">
+                        <p class="blogs-read-article">Read the article</p>
+                        <img src="css/img/arrow-white.jpg" alt="arrow white" class="arrow-white">
+                    </div>
+                    <img src="css/img/line.png" alt="line" class="line">
+                </div>
+                <div class="blogs-element">
+                    <p class="blogs-date">April 16, 2021 .5 mins</p>
+                    <h3>Logo design trends to avoid in 2021</h3>
+                    <div class="view-project">
+                        <p class="blogs-read-article">Read the article</p>
+                        <img src="css/img/arrow-white.jpg" alt="arrow white" class="arrow-white">
+                    </div>
+                    <img src="css/img/line.png" alt="line" class="line">
+                </div>
+                <div class="blogs-element">
+                    <p class="blogs-date">April 16, 2021 .7 mins</p>
+                    <h3>Logo design trends to avoid in 2021</h3>
+                    <div class="view-project">
+                        <p class="blogs-read-article">Read the article</p>
+                        <img src="css/img/arrow-white.jpg" alt="arrow white" class="arrow-white">
+                    </div>
+                    <img src="css/img/line.png" alt="line" class="line">
+                </div>
+                <div class="blogs-element">
+                    <p class="blogs-date">April 16, 2021 .7 mins</p>
+                    <h3>22 best UI design tools</h3>
+                    <div class="view-project">
+                        <p class="blogs-read-article">Read the article</p>
+                        <img src="css/img/arrow-white.jpg" alt="arrow white" class="arrow-white">
+                    </div>
+                    <img src="css/img/line.png" alt="line" class="line">
+                </div>
+            </article>
+        </section>
+        <!-- fifth page -->
+        <section class="fifth-page">
+            <div class="product-designer">
+                <div>
+                    <p>Product Designer</p>
+                    <h2>That's me!</h2>
+                </div>
+                <p>Over the past 12 years, I've worked with a diverse range of clients, from startups to Fortune 500 companies. I love crafting interfaces that delight users and help businesses grow.</p>
+            </div>
+            <div class="examples-work">
+                <!--  GRID контейнер   -->
+                <img src="css/img/phone.png" alt="phone" class="img1">
+                <img src="css/img/one_people.png" alt="man with computer" class="img2">
+                <img src="css/img/computer.png" alt="laptop on the dask" class="img3">
+                <img src="css/img/two_people.png" alt="two woman with laptop" class="img4">
+            </div>
+        </section>
+        <!-- sixth page -->
+        <section class="sixth-page">
+            <div>
+                <article>
+                    <h2>📚 Education</h2>
+                    <div class="achievement">
+                        <div>
+                            <h3>Stanford University</h3>
+                            <p>MSc (Human Computer Interaction)</p>
+                        </div>
+                        <p class="date">• 2013-2015</p>
+                        <img src="css/img/see_more.png" alt="arrow see more" class="see-more">
+                        <img src="css/img/line.png" alt="line">
+                    </div>
+                    <div class="achievement">
+                        <div>
+                            <h3>MIT Summer School</h3>
+                            <p>UX Training Bootcamp</p>
+                        </div>
+                        <p class="date">• 2013-2014</p>
+                        <img src="css/img/see_more.png" alt="arrow see more" class="see-more">
+                        <img src="css/img/line.png" alt="line">
+                    </div>
+                    <div class="achievement">
+                        <div>
+                            <h3>California State University</h3>
+                            <p>BSc in Software Engineering</p>
+                        </div>
+                        <p class="date">• 2009-2012</p>
+                        <img src="css/img/see_more.png" alt="arrow see more" class="see-more">
+                        <img src="css/img/line.png" alt="line">
+                    </div>
+                </article>
+            </div>
+            <div>
+                <article>
+                    <h2>💼 Work Experience</h2>
+                    <img src="css/img/rocket.png" alt="rocket">
+                    <div class="achievement">
+                        <div>
+                            <h3>SpaceFleet</h3>
+                            <p>Senior Product Designer</p>
+                        </div>
+                        <p class="date">• April 2019 - Current</p>
+                        <img src="css/img/see_more.png" alt="arrow see more" class="see-more">
+                        <img src="css/img/line.png" alt="line">
+                    </div>
+                    <img src="css/img/music.png" alt="music">
+                    <div class="achievement">
+                        <div>
+                            <h3>MusicMash</h3>
+                            <p>Information Architect</p>
+                        </div>
+                        <p class="date">• April 2016 - May 2017</p>
+                        <img src="css/img/see_more.png" alt="arrow see more" class="see-more">
+                        <img src="css/img/line.png" alt="line">
+                    </div>
+                    <img src="css/img/crown.png" alt="crown">
+                    <div class="achievement">
+                        <div>
+                            <h3>Kingdom</h3>
+                            <p>UI Designer</p>
+                        </div>
+                        <p class="date">• April 2016 - May 2017</p>
+                        <img src="css/img/see_more.png" alt="arrow see more" class="see-more">
+                        <img src="css/img/line.png" alt="line">
+                    </div>
+                </article>
+            </div>
+        </section>
